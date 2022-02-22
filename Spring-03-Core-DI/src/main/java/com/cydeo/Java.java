@@ -3,7 +3,10 @@ package com.cydeo;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-//Dependency injections ways
+
+//DI is an application of the IoC principle.
+//the Spring container "injects" objects into other objects or “dependencies”.
+//Dependency injections(DI) ways
 //Injecting the value in the field of the class
 //Injecting the value through the constructor for the class
 //Injecting the value through setter
