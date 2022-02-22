@@ -13,7 +13,7 @@ public class ConfigCar {
     }
 
     //Wiring manner: call @Bean annotated method in another @Bean annotated
-      //@Bean
+//      @Bean
 //    Person person(){
 //        Person p = new Person();
 //        p.setName("Kahar");
